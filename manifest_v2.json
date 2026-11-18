@@ -1,0 +1,45 @@
+{
+  "item": {
+    "id": "979866660001",
+    "restype": "watchface",
+    "name": "神庙逃亡",
+    "description": "# 经典《神庙逃亡》登陆小米手环！熟悉的跑酷玩法，全新的腕上体验！\n\n## 游戏概述\n\n《神庙逃亡》是一款运行在智能手环上的原生3D跑酷游戏。你将在神庙遗迹中一路前进，跳过断崖、滑过障碍，在岔路口及时转弯。沿途收集金币和宝石，跑得更远，刷新自己的最高分。\n\n## 核心玩法\n\n* **滑动操作**：上滑跳跃，下滑滑铲，左右滑动转弯。\n* **体感控制**：在支持体感的设备上，倾斜手腕即可横向移动，收集金币或避开障碍。\n* **无尽跑酷**：随着跑酷进度推进，奔跑速度逐步提升，考验反应和操作时机。\n* **挑战纪录**：得分随跑酷距离和收集的金币增长，游戏会保存个人最高分。\n\n## 道具系统\n\n* **护盾**：在生效期间保护角色，减少碰撞带来的风险。\n* **加速**：短时间内提速并获得保护，快速穿越危险路段。\n* **宝石复活**：挑战失败后可消耗宝石复活，继续本局跑酷。\n\n## 特色功能\n\n* 支持暂停和继续，适合碎片时间游玩。\n* 保存最高分、金币和宝石，下次打开可以继续挑战。",
+    "preview": [
+      "media/TemleRun_Preview-.png",
+      "media/1-.png",
+      "media/2-.png",
+      "media/3-.png",
+      "media/4-.png",
+      "media/神庙逃亡_精简版_4.9秒.gif"
+    ],
+    "icon": "media/templerunappicon.png",
+    "cover": "media/TemleRun_Preview.png",
+    "author": [
+      {
+        "name": "MatrixFive",
+        "bindABAccount": true
+      }
+    ]
+  },
+  "links": [],
+  "downloads": {
+    "xmb11": {
+      "version": "1.0.0",
+      "file_name": "downloads/temple-run-standalone-xiaomi-band-11-4.100.155.bin",
+      "versionCode": 65536
+    },
+    "xmb11nfc": {
+      "version": "1.0.0",
+      "file_name": "downloads/temple-run-standalone-xiaomi-band-11-4.100.155.bin",
+      "versionCode": 65536
+    },
+    "xmb10p": {
+      "version": "1.0.0",
+      "file_name": "downloads/temple-run-standalone-xiaomi-band-10-pro-3.101.043.bin",
+      "versionCode": 65536
+    }
+  },
+  "ext": {
+    "enableAstroBoxCreatorFeatures": true
+  }
+}
